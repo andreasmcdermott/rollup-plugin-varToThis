@@ -1,0 +1,22 @@
+{
+  "name": "rollup-plugin-varToThis",
+  "version": "1.0.0",
+  "description": "",
+  "module": "src/index.js",
+  "keywords": [
+    "rollup",
+    "plugin",
+    "varToThis"
+  ],
+  "files": [
+    "src",
+    "README.md"
+  ],
+  "repository": "github:andreasmcdermott/rollup-plugin-varToThis",
+  "bugs": {
+    "url": "https://github.com/rollup/rollup-plugin-varToThis/issues"
+  },
+  "homepage": "https://github.com/andreasmcdermott/rollup-plugin-varToThis#readme",
+  "author": "Andreas McDermott <a@mcdrmtt.co>",
+  "license": "MIT"
+}
