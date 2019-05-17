@@ -1,12 +1,13 @@
 {
-  "name": "rollup-plugin-varToThis",
+  "name": "rollup-plugin-var-to-this",
   "version": "1.0.0",
   "description": "",
   "module": "src/index.js",
   "keywords": [
     "rollup",
-    "plugin",
-    "varToThis"
+    "rollup-plugin",
+    "varToThis",
+    "var-to-this"
   ],
   "files": [
     "src",

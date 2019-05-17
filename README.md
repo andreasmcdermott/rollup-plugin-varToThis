@@ -1,4 +1,4 @@
-# rollup-plugin-varToThis
+# rollup-plugin-var-to-this
 
 When exporting a iife from your rollup script, the default is:
 
@@ -43,7 +43,7 @@ I didn't find a way to make to support `this.bundle` however. That's where this 
 ```
 // config:
 
-import varToThis from 'rollup-plugin-varToThis';
+import varToThis from 'rollup-plugin-var-to-this';
 
 {
   output: {
